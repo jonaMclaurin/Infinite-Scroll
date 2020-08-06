@@ -9,7 +9,7 @@ let totalImages = 0
 let initalLoad = true
 
 //Unsplash API
-const count = 7
+let count = 5
 const apiKey = 'tVhy_cae_O5jDsDisaf2yhoUPMjEA6RL2aGbtgB4rd8'
 
 const apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`
